@@ -1,0 +1,11 @@
+.env
+footage/
+models/
+labeling_frames/
+output/kybermart_demo_annotated.mp4
+output/sample_*.jpg
+output/test_frame.jpg
+output/preview_frame*.jpg
+output/sample_02_annotated.jpg
+output/sample_02_custom_model.jpg
+__pycache__/

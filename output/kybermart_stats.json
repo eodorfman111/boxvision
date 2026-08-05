@@ -1,0 +1,31 @@
+{
+  "total_frames": 192,
+  "fps": 24.0,
+  "peak_concurrent_boxes": 45,
+  "distinct_box_ids_seen": 90,
+  "line_in_count": 3,
+  "line_out_count": 9,
+  "sample_dimension_estimates_cm": [
+    "~48x81cm",
+    "~69x87cm",
+    "~84x43cm",
+    "~100x91cm",
+    "~58x66cm",
+    "~73x63cm",
+    "~84x53cm",
+    "~57x65cm",
+    "~89x75cm",
+    "~44x72cm",
+    "~79x45cm",
+    "~55x73cm",
+    "~84x88cm",
+    "~54x35cm",
+    "~71x62cm",
+    "~52x44cm",
+    "~40x50cm",
+    "~66x26cm",
+    "~30x21cm",
+    "~72x41cm"
+  ],
+  "note": "Dimension estimates are approximate, calibrated off a single assumed worker height (173cm) per frame \u2014 a real deployment would use a depth camera or fixed calibration target for production accuracy."
+}
